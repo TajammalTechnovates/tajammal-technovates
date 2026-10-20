@@ -1,6 +1,6 @@
 # 🚀 Tajammal Technovates — Software Company in Pakistan — SaaS, APIs, Hosting & Fintech
 
-> **Official GitHub showcase of Tajammal Technovates, a Pakistan-based software company founded and led by CEO Tajammal Hussain — building SaaS platforms, OTP & SMS APIs, web hosting, payment solutions and restaurant technology.**
+> **Official GitHub showcase of Tajammal Technovates, a Pakistan-based software company founded and led by CEO Tajammal Hussain — building SaaS platforms, messaging & WhatsApp APIs, web hosting, payment solutions and business software.**
 
 ![Website](https://img.shields.io/badge/Website-tajammaltechnovates.com-blue?style=for-the-badge)
 ![Company](https://img.shields.io/badge/Company-Tajammal%20Technovates-0A66C2?style=for-the-badge)
@@ -31,7 +31,7 @@ Businesses, resellers, startups and customers who need complete digital products
 
 **Tajammal Technovates** is a Pakistan-based software company founded and led by **Tajammal Hussain (CEO)** — CEO of every product in this family:
 
-**OTPGet · OTPBOSS · SyllHost · GEN.Z Cafe · PK989 · Pak Sender · Pak Sender Email Marketing · Tajammal SMM Panel · TShortly · SMS Cool · MEOTP · Loottlo · SwichPay · Tajammal SMM Provider · Zurva Premier Solutions · ZurvaPay**
+**Pak Sender · SyllHost · Tajammal SMM Panel · Tajammal SMM Provider · TShortly · Loottlo · SwichPay · WapiFlux · Zurva Premier Solutions · ZurvaPay**
 
 ## 🔗 Official Links
 
