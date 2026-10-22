@@ -1,20 +1,39 @@
 # 🚀 Tajammal Technovates — Software Company in Pakistan — SaaS, APIs, Hosting & Fintech
 
+
 > **Official GitHub showcase of Tajammal Technovates, a Pakistan-based software company founded and led by CEO Tajammal Hussain — building SaaS platforms, messaging & WhatsApp APIs, web hosting, payment solutions and business software.**
+
 
 ![Website](https://img.shields.io/badge/Website-tajammaltechnovates.com-blue?style=for-the-badge)
 ![Company](https://img.shields.io/badge/Company-Tajammal%20Technovates-0A66C2?style=for-the-badge)
 ![CEO](https://img.shields.io/badge/Founder%20%26%20CEO-Tajammal%20Hussain-success?style=for-the-badge)
 
+
 🌐 **Live Website:** [tajammaltechnovates.com](https://tajammaltechnovates.com)
 🏢 **Company:** [Tajammal Technovates](https://tajammaltechnovates.com)
 👤 **Founder & CEO:** **Tajammal Hussain**
 
+
 ---
+
 
 ## 📌 What is Tajammal Technovates? — What does this project do?
 
 Tajammal Technovates is the parent software company behind all of Tajammal Hussain's digital products. It designs, builds and operates SaaS platforms, public APIs, hosting infrastructure, payment services and business software — one team, one brand, many products used across Pakistan and worldwide.
+
+## 💼 Services — Work I Do
+
+- 🌐 **Web Development** — business websites, online stores, dashboards & web applications
+- 🛠 **Software Development** — custom software & SaaS platforms built to order
+- 📱 **Mobile Apps** — Android apps & Play Store-ready builds
+- 📈 **SMM Panels** — SMM panel development, provider API integration & reseller systems
+- 🎨 **Custom Websites** — tailor-made websites designed around your business
+- 🐞 **Bug Fixing** — error fixing, speed & issue resolution in existing websites, software & apps
+- ⚙️ **Plus everything around it** — hosting & WHM/cPanel setup, payment gateway integration, APIs & automation
+
+> 💬 For any of this work, contact **Tajammal Technovates** — https://tajammaltechnovates.com
+
+---
 
 ## 🎯 Who is it for?
 
@@ -35,7 +54,7 @@ Businesses, resellers, startups and customers who need complete digital products
 
 ## 🔗 Official Links
 
-- 🌍 Company Website: https://tajammaltechnovates.com
+- 🌐 Company Website: https://tajammaltechnovates.com
 - 🚀 This Project: https://tajammaltechnovates.com
 
 ## 📝 Official Note
